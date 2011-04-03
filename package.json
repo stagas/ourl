@@ -1,0 +1,17 @@
+{
+  "name": "ourl",
+  "description": "Gives you: new Url(href)",
+  "version": "0.0.1",
+  "author": "George Stagas <gstagas@gmail.com>",
+  "engines": {
+    "node": ">=0.1.0"
+  },
+  "main": "./ourl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stagas/ourl"
+  },
+  "bugs": {
+    "web": "https://github.com/stagas/ourl/issues"
+  }
+}
