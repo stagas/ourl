@@ -31,5 +31,9 @@ Url.prototype.resolve = function(to) {
   return url.resolve(this, to || this)
 }
 
+Url.prototype.toString = function() {
+  return url.format(this)
+}
+
 exports.Url = Url
 module.exports = Url
